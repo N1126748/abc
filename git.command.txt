@@ -1,0 +1,14 @@
+拉遠端程式到電腦上
+git clone https:/.....
+
+請 git 追蹤程式
+git add .
+
+存檔 寫下紀錄
+git commit -m "Uploading code"
+
+請 git 上傳github
+git push
+
+查詢檔案狀況
+git status
